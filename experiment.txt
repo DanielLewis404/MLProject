@@ -1,2 +1,2 @@
 This is a journal for experiment data.
-
+Finding Regression lines Added
