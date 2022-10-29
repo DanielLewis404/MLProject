@@ -1,3 +1,2 @@
-coding karo.
-Hacktober 2022.
+This is a journal for experiment data.
 
