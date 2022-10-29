@@ -25,3 +25,5 @@ def estimate_coef(x, y):
     b_2 = m_y - b_1*m_x
   
     return (b_2, b_1)
+  
+  print("Confused Unga Bunga")
