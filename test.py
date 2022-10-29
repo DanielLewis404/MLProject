@@ -27,3 +27,8 @@ def estimate_coef(x, y):
     return (b_2, b_1)
   
   print("Confused Unga Bunga")
+  def array_search(a,x):
+    for i in a:
+      if i==a:
+        print("FOUND!!")
+    
