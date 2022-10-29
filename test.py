@@ -22,6 +22,6 @@ def estimate_coef(x, y):
   
     # calculating regression coefficients
     b_1 = SS_xy / SS_xx
-    b_0 = m_y - b_1*m_x
+    b_2 = m_y - b_1*m_x
   
-    return (b_0, b_1)
+    return (b_2, b_1)
